@@ -32,6 +32,7 @@ main{
     display: flex;
     justify-content: center;
     align-items: center;
+    filter: drop-shadow(8px 8px black);
 }
 .preview-info{
     display: grid;
@@ -77,8 +78,8 @@ main{
 }
 /*Text Styling*/
 .course-label{
-    width: 82px;
-    height: 29px;
+    width: 58px;
+    height: 21px;
     display: flex;
     justify-content: center;
     align-items: center;
