@@ -114,3 +114,46 @@ main{
 .author-name{
     font-weight: 800;
 }
+/*Hover Affect*/
+.preview-container:hover, .preview-container:focus{
+    .course-name{
+        color: #F4D04E;
+    }
+    .preview-bg{
+        transition: 600ms;
+        filter: drop-shadow(16px 16px black);
+    }
+}
+/*Dimensions iPhone SE 100% in google dev tools inspector */
+@media (max-width: 375px) {
+    main{
+    width: 375px;
+    height: 812px;
+    margin: auto 24px;
+}
+.preview-bg{
+    height: 501px;
+    width: 327px;
+}
+.preview-info{
+    width: 279px;
+    height: 453px;
+}
+.preview-text{
+    width: 279px;
+    height: 173px;
+}
+.course-img{
+    width: 279px;
+    height: 200px;
+}
+
+.course-label{
+    width: 49px;
+    height: 18px;
+}
+.author{
+    width: 129px;
+    height: 32px;
+}
+}
