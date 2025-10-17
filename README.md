@@ -1,5 +1,5 @@
 
-# Lab Practicing Implementation with Frontend Mentor 3.2 
+# 3.2 Lab Practicing Implementation with Frontend Mentor
 ## Lab Overview
 The purpose of this project is to demo the handoff process that occurs between designers and developers. These challenges, provided by Frontend Mentor, serve to allow me to:
 -Recreate professional looking and accurate designs.
