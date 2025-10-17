@@ -73,3 +73,13 @@ main{
     margin-top: 16px;
 }
 
+/*Dimensions iPhone SE 100% in google dev tools inspector */
+@media (max-width: 375px) {
+    main{
+    width: 375px;
+    height: 812px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+}
