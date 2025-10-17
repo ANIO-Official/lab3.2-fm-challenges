@@ -37,8 +37,11 @@ This is a solution to the [Blog preview card challenge on Frontend Mentor](https
 ### Screenshot
 
 -[Frontend Mentor: QR Code Card Challenge-Desktop](./qrcodecard-screeshot.png)
+
 -[Frontend Mentor: QR Code Card Challenge-Mobile](./qrcodecard-mobile-screeshot.png)
+
 -[Frontend Mentor: Blog Preview Challenge-Desktop](./blogpreview-screenshot.png)
+
 -[Frontend Mentor: Blog Preview-Mobile](./blogpreview-mobile-screeshot.png)
 
 ### GitHub Link
@@ -74,17 +77,19 @@ https://github.com/ANIO-Official/lab3.2-fm-challenges
 
 ## Reflection Questions
 
-1. **How did using Figma designs as references affect your coding process?**
-Using Figma designs as reference streamlined my process. 
-It removed any doubts on how parts would be sized as you could easily interact with element properties to check.
-2. **What challenges did you encounter when aligning your code with the design specifications?**
-The main challenge I had initially was with the padding and margins. But I realized that the main elements as a base
-*all* had mostly 0 margins as a base. Padding took most of the focus. There was only only a need for some margin sizing
-with specific elements' top and bottom sides.
-3. **How can the feedback and community resources on Frontend Mentor help you improve as a developer?**
-Front-end Mentor's feedback and resources provided a very friendly learning envireonment to improve and practice.
-Challenges like these are especially helpful when you want to practice but are unsure what to create exactly to do so.
-This one in particular helped me practice Grid and Flexbox more in addition to the "Handoff" process.
+  1. **How did using Figma designs as references affect your coding process?**
+
+  Using Figma designs as reference streamlined my process. 
+  It removed any doubts on how parts would be sized as you could easily interact with element properties to check.
+  2. **What challenges did you encounter when aligning your code with the design specifications?**
+
+  The main challenge I had initially was with the padding and margins. But I realized that the main elements as a base
+  *all* had mostly 0 margins as a base. Padding took most of the focus. There was only only a need for some margin sizing
+  with specific elements' top and bottom sides.
+  3. **How can the feedback and community resources on Frontend Mentor help you improve as a developer?**
+  Front-end Mentor's feedback and resources provided a very friendly learning envireonment to improve and practice.
+  Challenges like these are especially helpful when you want to practice but are unsure what to create exactly to do so.
+  This one in particular helped me practice Grid and Flexbox more in addition to the "Handoff" process.
 ### What I learned
 
 Figma is actually *extremely* helpful to me when developing the CSS document. 
